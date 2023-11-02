@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather-check/static/css/main.3bdedd80.css",
+    "main.js": "/weather-check/static/js/main.ff358f07.js",
+    "static/js/787.0157ba9a.chunk.js": "/weather-check/static/js/787.0157ba9a.chunk.js",
+    "static/media/bg.jpg": "/weather-check/static/media/bg.c23038eda7ee6178a020.jpg",
+    "index.html": "/weather-check/index.html",
+    "main.3bdedd80.css.map": "/weather-check/static/css/main.3bdedd80.css.map",
+    "main.ff358f07.js.map": "/weather-check/static/js/main.ff358f07.js.map",
+    "787.0157ba9a.chunk.js.map": "/weather-check/static/js/787.0157ba9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdedd80.css",
+    "static/js/main.ff358f07.js"
+  ]
+}
